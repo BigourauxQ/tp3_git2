@@ -8,4 +8,8 @@ L'essentiel est invisible pour les yeux.-L'essentiel est invisible pour les yeux
 Mais tu ne dois pas l'oublier.  
 Tu deviens responsable pour toujours de ce que tu as apprivoisé.  
 Tu es responsable de ta rose...
+<<<<<<< HEAD
 Extrait du livre "Le Petit Prince" d'Antoine de Saint-Exupéry, paru en 1943
+=======
+Le Petit Prince (Saint-Exupéry, 1943).
+>>>>>>> 1d5d098a8e6917bc5c4d8f3fb4e33d6da55aa9c8
